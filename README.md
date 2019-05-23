@@ -14,5 +14,4 @@ A Customer Presents a Virtual Loyalty Card
 Five down, four to go...
 
 
-
-
+inspired from John O’Mullane
