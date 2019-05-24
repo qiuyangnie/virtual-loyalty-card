@@ -1,5 +1,6 @@
 # virtual-loyalty-card
 <p>A QR code based loyalty card system. The system would replace card based systems such as the one shown below.</p>
+<img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/cardBasedSystem.png">
 
 # Workflow of the Virtual Loyalty Card
 <p>To use the virtual loyalty card a customer</p>
