@@ -23,5 +23,9 @@ virtual loyalty card is reset to empty</li>
   </li>
 </ul>
 
+<p>This project concentrates on the interaction between the user and the system and does not consider the implementation of the server-based services. These server-based services are available via a RESTful interface.</p>
+
+
+
 
 
