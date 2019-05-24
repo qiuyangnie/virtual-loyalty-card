@@ -1,18 +1,27 @@
 # virtual-loyalty-card
-A QR code based loyalty card system. The system would replace card based systems such as the one shown below.  
+<p>A QR code based loyalty card system. The system would replace card based systems such as the one shown below.</p>
 
-![card based system](https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/cardBasedSystem.png)
+# Workflow of the Virtual Loyalty Card
+<p>To use the virtual loyalty card a customer</p>
+<ul>
+  <li>Signs up for a virtual loyalty card and receives a QR code image that they can store on their mobile phone (or print out) – (these QR code images have been generated)</li>
+  <li>
+    Uses the virtual loyalty card by presenting the QR code image to a camera at the till
+    <ul>
+      <li>The system checks the number of times the loyalty card has been presented by
+accessing a database on a server</li>
+      <li>If the user has sufficient virtual stamps on their card, their item is free and the
+virtual loyalty card is reset to empty</li>
+      <li>If not then their the number of virtual stamps is increased by one</li>
+    </ul>
+  </li>
+  <li>Sees either
+    <ul>
+      <li>A screen showing that their item is free and sees their card reset to empty (to start all over again)</li>
+      <li>Their card incremented by another stamp</li>
+    </ul>
+  </li>
+</ul>
 
-<b>Design example</b>
-</br>
-<img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/design1.png" alt="design example - One Stamp on the Virtual Loyalty Card" width="450"/>  
-<i>One Stamp on the Virtual Loyalty Card</i>
-<br>
-<img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/customer.png" alt="design example - A Customer Presents a Virtual Loyalty Card" width="450"/>  
-A Customer Presents a Virtual Loyalty Card
-
-<img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/design2.png" alt="design example - Five down, four to go..." width="450"/>  
-Five down, four to go...
 
 
-inspired from John O’Mullane
