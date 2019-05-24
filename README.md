@@ -3,10 +3,11 @@ A QR code based loyalty card system. The system would replace card based systems
 
 ![card based system](https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/cardBasedSystem.png)
 
-Design example  
+<b>Design example</b>
+</br>
 <img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/design1.png" alt="design example - One Stamp on the Virtual Loyalty Card" width="450"/>  
-One Stamp on the Virtual Loyalty Card  
-
+<i>One Stamp on the Virtual Loyalty Card</i>
+<br>
 <img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/customer.png" alt="design example - A Customer Presents a Virtual Loyalty Card" width="450"/>  
 A Customer Presents a Virtual Loyalty Card
 
