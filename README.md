@@ -28,6 +28,5 @@ virtual loyalty card is reset to empty</li>
 # Architecture of the Virtual Loyalty Card System
 <img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/architecture.png" width="600">
 
-
-
-
+# QR code example
+<img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/QRCodeExample.PNG">
