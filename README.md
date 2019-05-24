@@ -31,4 +31,7 @@ virtual loyalty card is reset to empty</li>
 # QR code image
 <img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/QRCodeExample.PNG">
 
+# Implementation example
+<img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/virtualLoyaltyCard.JPG" width="600">
+
 Information provided by John O’Mullane, UCC
