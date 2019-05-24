@@ -23,9 +23,10 @@ virtual loyalty card is reset to empty</li>
     </ul>
   </li>
 </ul>
-
 <p>This project concentrates on the interaction between the user and the system and does not consider the implementation of the server-based services. These server-based services are available via a RESTful interface.</p>
 
+# Architecture of the Virtual Loyalty Card System
+<img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/architecture.png" width="400">
 
 
 
