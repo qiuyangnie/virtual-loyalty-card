@@ -34,4 +34,5 @@ virtual loyalty card is reset to empty</li>
 # Implementation Example
 <img src="https://github.com/qiuyangnie/virtual-loyalty-card/blob/master/img/virtualLoyaltyCard.JPG" width="600">
 
-Information provided by John O’Mullane, UCC
+# Acknowledgements
+This project and information are based on the CS6100 assignment provided by John O’Mullane, UCC
